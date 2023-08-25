@@ -1,14 +1,12 @@
 # DCT-64points
-Đề tài: Thiết kế DCT 64 điểm
+The content of the report file of our group includes:
 
-Nội dung file báo cáo của nhóm chúng em gồm có:
+1.Design: folder of DCT . design files
 
-1.Design: thư mục gồm các file thiết kế DCT
+2.Implemnet: directory containing source code Verilog and source code for testing
 
-2.Implemnet: thư mục chứa source code Verilog và source code kiểm thử
+3.Report: folder containing report files and presentation slides
 
-3.Report: thư mục gồm file báo cáo và slide thuyết trình
+4.RTL: folder containing simulation (sim) and synthesis (syn) files
 
-4.RTL: thư mục chứa các file chạy mô phỏng (sim) và tổng hợp(syn)
-
-5.SIM: thư mục chứa kết quả chạy mô phỏng
+5.SIM: folder containing simulation results
